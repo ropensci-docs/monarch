@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "200c56a039656856e5a054bb985dabc47801fb14",
+    "author": "Steffi LaZerte <sel@steffilazerte.ca>",
+    "time": "2026-08-31T17:43:23Z",
+    "files": 1,
+    "merge": false,
+    "message": "Fix author (fixes #2)\n"
+  },
+  "repo": "https://github.com/ropensci-org/monarch",
+  "pkg": "monarch",
+  "time": "2026-08-31T20:59:41Z"
+}
