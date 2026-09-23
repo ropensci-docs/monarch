@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c5a7d4e53da4fea0fcdb20c0c38d6ce6787a36f7",
+    "author": "Steffi LaZerte <sel@steffilazerte.ca>",
+    "time": "2026-09-23T20:40:55Z",
+    "files": 1,
+    "merge": false,
+    "message": "Include primary handles in final set\n"
+  },
+  "repo": "https://github.com/ropensci-org/monarch",
+  "pkg": "monarch",
+  "time": "2026-09-23T23:53:21Z"
+}
